@@ -29,6 +29,7 @@ EXPOSE 80
 
 # Start the app
 ENTRYPOINT ["dotnet", "dotnetcoresample.dll"]
+
 ```
 
 ## Ejecutando en un contenedor Docker
